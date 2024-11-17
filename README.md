@@ -4,10 +4,6 @@
 
 ### Recette 1 : Kunafa à la crème d'amandes 🍰
 
-<div align="center">
-    <img src="https://github.com/HoussamCbk/TheWorkOfArts/blob/main/P%C3%A2tisseries%20/Kunnafa%20x%20Cr%C3%A8me%20d'Amandes/KunnafaXCr%C3%A8med'Amandes.jpeg" alt="Image de Kunafa" width="400"/>
-</div>
-
 #### Ingrédients 📝
 - ##### Kunafa
 - ##### Pour la crème d'amandes 🌰
